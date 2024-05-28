@@ -4,162 +4,121 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Observatory
     weight: 10
     identifier: Home
   - name: About
     url: ""
-    weight: 20
-    identifier: About
- # - name: "In 1 minute"
-  #  url: '#slider'
-  #  weight: 12
-  #  parent: Home
-  - name: "What we do… ?"
+    weight: 11
+    parent: Home
+  - name: News
+    url: ""
+    weight: 12
+    parent: Home
+  - name: Topics ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼
+    url: ""
+    weight: 13
+    parent: Home
+  - name: "Observatory Stakeholder Network"
     url: "/authors/admin/"
-    weight: 21
-    parent: About
-  - name: "… for musicians"
+    weight: 15
+    parent: Home
+  - name: "Technical Forum"
     url: '/services/music-professionals/'
-    weight: 22
-    parent: About
-  - name: "… for businesses & institutions"
-    url: '/services/business-institution/'
-    weight: 23
-    parent: About
-  - name: "… for public policymakers"
-    url: '/services/public-policy/'
-    weight: 24
-    parent: About
-  - name: "… for music researchers"
-    url: '/services/researchers/'
-    weight: 25
-    parent: About
-  - name: "… for data curators & strategiests"
-    url: '/services/data-knowledge/'
-    weight: 26
-    parent: About
-  - name: "Organisation"
-    url: '/organisation/'
-    weight: 28
-    parent: About
-  - name: Contributors
-    url: '#contributors'
-    weight: 29
-    parent: About
-  - name: "Projects ↴"
-    url: "/project/"
-    weight: 34
-    parent: About
-  - name: 🇪🇺 Listen Local
-    url: '/project/listen-local/'
-    weight: 36
-    parent: About
-  - name: 🇪🇺 Open Music Europe
+    weight: 16
+    parent: Home
+  - name: Open Music Europe 🇪🇺 
     url: '/project/open-music-europe/'
-    weight: 37
-    parent: About
-  - name: 🇪🇺 Music Eviota
-    url: '#projects'
-    weight: 38
-    parent: About
-    url: ../project/musiceviota/
-  - name: Topics
-    url: '#tags'
-    weight: 39
-    parent: About  
+    weight: 17
+    parent: Home
+  - name: "Reprex ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼"
+    url: '/services/public-policy/'
+    weight: 18
+    parent: Home
+  - name: Join
+    url: "#join"
+    weight: 20
+    parent: Home
   - name: Data
     url: '#pillars'
     weight: 40
     identifier: Data
-  - name: 🏛️ Music & Economy
+  - name: EU Open Data Portal
     url: '#pillars'
     weight: 41
     parent: Data
-  - name: 🏛️ Diversity & Circulation
+  - name: Europeana
     url: '#pillars'
     weight: 42
     parent: Data
-  - name: 🏛️ Music & Society
+  - name: Wikibase
     url: '#pillars'
     weight: 43
     parent: Data
-  - name: 🏛️ Music Tech & Innovation
-    url: '#pillars'
+  - name: Open Science Repository
+    url: 'https://zenodo.org/communities/music_observatory'
     weight: 44
     parent: Data
-  - name: 📖 Open Science Repository
-    url: 'https://zenodo.org/communities/music_observatory'
+  - name: 🏛️ Music Economy
+    url: '#pillars'
+    weight: 45
+    parent: Data
+  - name: 🏛️ Diversity & Circulation
+    url: '#pillars'
     weight: 46
     parent: Data
-  - name: 🎙️ Open Music Collections
+  - name: 🏛️ Music & Society
+    url: '#pillars'
     weight: 47
-    url: https://www.opencollections.net/collections/music/
     parent: Data
-  - name: Data collection
-    url: ../collection/
+  - name: 🏛️ Music Tech & Innovation
+    url: '#pillars'
     weight: 48
     parent: Data
-  - name: 🖥️ API
-    url: '#data'
+  - name: 🏛 Sustainability
     weight: 49
     parent: Data
-  - name: Solutions
+  - name: Services
     url: '#services'
     weight: 50
-    identifier: Solutions
+    identifier: Services
   - name: Applications
     url: 'apps/'
     weight: 51
-    parent: Solutions
-  - name: Software
+    parent: Services
+  - name: Open Music Software
     url: '#releases'
     weight: 52
-    parent: Solutions
-#  - name: Use cases
-#    url: '#usecase'
-#    weight: 34
-    parent: Solutions
+    parent: Services
   - name: Code
     url: '/category/r-bloggers/'
     weight: 54
-    parent: Solutions
+    parent: Services
   - name: Publications
     url: '#featured'
-    weight: 60
+    weight: 70
     identifier: Publications
   - name: Featured
     url: '#featured'
-    weight: 60
+    weight: 71
     parent: Publications
   - name: All Publications
     url: '#publications'
-    weight: 62
-    parent: Publications
-  - name: Partners
-    url: 
-    weight: 70
-    id: Partners
-  - name: Contributors
-    url: '#contributors'
-    weight: 71
-    parent: Partners
-  - name: Join
-    url: "#join"
     weight: 72
-    parent: Partners
-  - name: Contact
+    parent: Publications
+  - name: Events
     url: '#contact'
-    weight: 90
-    identifier: Contact
-  - name: Get in touch
-    url: '#contact'
-    weight: 91
-    parent: Contact
+    weight: 80
+    identifier: Events
   - name: Public talks
     url: '#talks'
-    weight: 92
-    parent: Contact
+    weight: 82
+    parent: Events
+  - name: Contact
+    url: '#contact'
+    weight: 95
+    identifier: Contact
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

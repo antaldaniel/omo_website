@@ -7,13 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Contributors of the Digital Music Observatory"
+title = "Open Music Observatory Stakeholder Network"
 subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/)."
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["developers", "data curators", "service development team", "institutional partners", "join us"]
+  user_groups = ["Observatory Stakeholder Network", "Music Data Exchange Forum", "Service Development Team", "Institutional Partners", "Join us"]
 
 [design]
   # Show user's social networking links? (true/false)

@@ -15,9 +15,8 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: 'Digital Music Observatory'
+    site_type: Project
+    org_name: 'Open Music Observatory'
     description: 'An open knowledge platform for the music industry'
     twitter: 'DigitalMusicObs'
   analytics:
