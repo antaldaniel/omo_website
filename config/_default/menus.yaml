@@ -4,13 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Observatory
+  - name: About
     weight: 10
     identifier: Home
-  - name: About
-    url: ""
-    weight: 11
-    parent: Home
   - name: News
     url: ""
     weight: 12
@@ -28,10 +24,10 @@ main:
     weight: 16
     parent: Home
   - name: Open Music Europe 🇪🇺 
-    url: '/project/open-music-europe/'
+    url: https://openmuse.eu/
     weight: 17
     parent: Home
-  - name: "Reprex ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼"
+  - name: "Reprex ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼"
     url: '/services/public-policy/'
     weight: 18
     parent: Home
@@ -44,15 +40,15 @@ main:
     weight: 40
     identifier: Data
   - name: EU Open Data Portal
-    url: '#pillars'
+    url: ../data/eu-data-portal/
     weight: 41
     parent: Data
   - name: Europeana
-    url: '#pillars'
+    url: ../data/europeana/
     weight: 42
     parent: Data
   - name: Wikibase
-    url: '#pillars'
+    url: ../data/wikibase/
     weight: 43
     parent: Data
   - name: Open Science Repository
