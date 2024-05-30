@@ -10,6 +10,10 @@ authors: ["daniel_antal"]
 # Link this post with a project
 projects: ""
 
+categories: 
+  - Datasets
+  - "Music economy"
+
 # Date published
 date: "2021-11-06T00:00:00Z"
 lastmod: "2021-11-06T00:00:00Z"
@@ -54,7 +58,7 @@ image:
 
 <td style="text-align: center;">{{< figure src="dataset/trb_plot.png" caption="Imputed and forecasted values of  the radio broadcasting industry from the Annual detailed enterprise statistics for services (NACE Rev. 2 H-N and S95) Eurostat folder." numbered="false" >}}</td>
 
-
+{{< cta cta_text="Datasets" cta_link="/category/dataset/" cta_new_tab="false" >}} 
 Imputed and forecasted values of  the radio broadcasting industry from the Annual detailed enterprise statistics for services (NACE Rev. 2 H-N and S95) Eurostat folder.
 
 We use backcasting, forecasting, approxmation, last observation carry forward and next observation carry backwards to impute missing values, and to create realistic forecasts up to three periods. 
@@ -63,4 +67,5 @@ Compared to the Eurostat raw data we added value with
 Increased number of observations: 65%
 Reduced missing values: -48.1%
 Increased non-missing subset for regression or AI: +66.67%
+
 

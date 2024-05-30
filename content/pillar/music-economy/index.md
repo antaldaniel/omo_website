@@ -39,6 +39,8 @@ image:
   focal_point: "Center"
 ---
 
+{{< cta cta_text="Music economy" cta_link="/category/music-economy/" cta_new_tab="false" >}}
+
 In the case of `Pillar 1 – Music & Economy`, we are usually able to
 locate the source of the data, and we have some experience in processing
 the data and bringing it to light. We have mapped many perceived data
