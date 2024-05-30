@@ -3,7 +3,7 @@ title: Turnover of Radio Broadcasting Industry in Europe
 subtitle: Experimental dataset
 
 # Summary for listings and search engines
-summary: "When you make a project, you make many decisions. We taught them that they should be conscious about the planet with every decision they make."
+summary: "This is an experimental dataset that takes a subjective view on the improvement of a Eurostat data cube."
 
 authors: ["daniel_antal"]
  
@@ -39,9 +39,10 @@ links:
 
 
 tags:
-  - Music Economy
+  - Music economy
   - Radio
   - Turnover
+  - Dataset
   
   # Featured image
 image:

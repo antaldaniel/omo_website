@@ -8,7 +8,7 @@ date: 2020-10-14T10:00:00
 lastmod: 2023-06-22T16:10:00+02:00
 
 # Project summary to display on homepage.
-summary: "The Digital Music Observatory monitors the music markets with an economic methodology: we not only measure market volumes and prices, but we also measure both demand- and supply side indicators so that we can forecast future market volumes or prices."
+summary: "The Open Music Observatory monitors the music markets with an economic methodology: we not only measure market volumes and prices, but we also measure both demand- and supply side indicators so that we can forecast future market volumes or prices."
 
 # Tags: can be used for filtering projects.
 tags: ["Music economy", "Valuations", "Private copying", "Value gap", "Music industry"]
