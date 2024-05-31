@@ -52,7 +52,7 @@ main:
     weight: 43
     parent: Data
   - name: Open Science Repository
-    url: 'https://zenodo.org/communities/music_observatory'
+    url: ../data/zenodo/
     weight: 44
     parent: Data
   - name: 🏛️ Music Economy

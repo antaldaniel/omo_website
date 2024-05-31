@@ -23,12 +23,12 @@ featured: false
 links:
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://music.dataobservatory.eu/
-- icon: z
-  icon_pack: fab
-  name: Zenodo Repository
-  url: https://zenodo.org/communities/music_observatory
+- icon: zenodo
+  icon_pack: ai
+  name: music observatory
+  url: https://doi.org/10.5281/zenodo.5652118
   
 tags:
   - Musicians
