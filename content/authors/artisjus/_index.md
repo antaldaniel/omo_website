@@ -37,9 +37,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/artisjus.hu/
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/DalSzerzo/
+  link: https://x.com/DalSzerzo/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/dalszerzo/

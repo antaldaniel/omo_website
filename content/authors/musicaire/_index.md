@@ -31,9 +31,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/company/musicaire-project/
-  - icon: twitter
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/music_aire
+    link: https://x.com/music_aire
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in 

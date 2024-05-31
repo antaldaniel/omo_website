@@ -43,9 +43,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/paulcarrmusic/
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/pcarr
+  link: https://x.com/pcarr
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

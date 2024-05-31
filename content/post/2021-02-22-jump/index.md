@@ -14,7 +14,7 @@ summary: "Daniel Antal, co-founder of Reprex, was selected into 2021 Fellowship 
 projects: ["Listen Local"]
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs

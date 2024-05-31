@@ -18,7 +18,7 @@ image:
   preview_only: true
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: Follow
   url: https://x.com/dataandlyrics

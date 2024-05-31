@@ -95,9 +95,9 @@ social:
   icon_pack: fab
   link: https://keybase.io/team/reprexcommunity
 # Change twitter link below to https://twitter.com/yourhandle if you use it for professional purposes, or delete twitter three lines.
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/DigitalMusicObs
+  link: https://x.com/DigitalMusicObs
 # Change to: https://github.com/yourhandle if you use it for professional purposes.
 # Otherwise delete three lines below.
 - icon: github

@@ -50,9 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
+#- icon: x
 #  icon_pack: fab
-#  link: https://twitter.com/antaldaniel
+#  link: https://x.com/antaldaniel
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7513-6760

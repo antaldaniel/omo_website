@@ -37,9 +37,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/aloadedmusic/
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/aloadedmusic/
+  link: https://x.com/aloadedmusic/
 - icon: instagram
   icon_pack: fab
   link: 

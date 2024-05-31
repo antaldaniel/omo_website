@@ -40,9 +40,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/school/ekonomicka-univerzita-v-bratislave/
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/KomunikaciaEuba
+  link: https://x.com/KomunikaciaEuba
   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

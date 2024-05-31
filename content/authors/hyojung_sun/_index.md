@@ -40,9 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/hyojungsun/
+  link: https://x.com/hyojungsun/
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-1019-0835

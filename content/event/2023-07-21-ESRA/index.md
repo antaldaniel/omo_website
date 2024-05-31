@@ -43,7 +43,7 @@ url_slides: ''
 url_video: ''
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs

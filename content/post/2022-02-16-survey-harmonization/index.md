@@ -12,7 +12,7 @@ tags: [ "Digital Music Observatory", "Survey harmonization", "Cultural Access an
 summary: "Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research.  When the same questions are asked from similarly selected German and French people, music audiences and musicians, then we can make meaningful comparisons between the public opinions of the two countries, or the different perceptions of fans and makers of music."
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
@@ -22,7 +22,7 @@ links:
   url: https://retroharmonize.dataobservatory.eu/
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: mastodon
   icon_pack: fab

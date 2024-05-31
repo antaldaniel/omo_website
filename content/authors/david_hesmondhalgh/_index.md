@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/hesmondthing
+  link: https://x.com/hesmondthing
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5940-9191

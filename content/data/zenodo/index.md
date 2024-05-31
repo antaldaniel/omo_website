@@ -59,16 +59,17 @@ slides: ""
 
 The Zenodo REST API currently supports:
 
-Deposit — upload and publishing of research outputs (identical to functionality available in the user interface).
-Records — search published records.
-Files — download/upload of files.
+- [x] `Deposit` — upload and publishing of research outputs (identical to functionality available in the user interface).
+- [x] `Records` — search published records.
+- [x] `Files` — download/upload of files.
 
 The following REST APIs are currently in testing before we launch them in beta with full documentation:
 
-Communities - search communities.
-Funders — search for funders.
-Grants — search for grants.
-Licenses — search for licenses.
+- [ ] Communities - search communities.
+- [ ]Funders — search for funders.
+- [ ]Grants — search for grants.
+- [ ]Licenses — search for licenses.
+
 You can have a sneak peek at the APIs in test from our root endpoint: <https://zenodo.org/api/>
 
 _We will publish tutorials on the use of our API in several languages._

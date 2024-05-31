@@ -37,7 +37,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link:  https://www.linkedin.com/company/68855596/
-- icon: twitter
+- icon: x
   icon_pack: fab
   link: https:/twitter.com/DigitalMusicObs/
 - icon: github 

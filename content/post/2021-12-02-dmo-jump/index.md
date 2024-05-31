@@ -12,13 +12,13 @@ tags: ["JUMP", "Digital Music Observatory", "Music streaming", "Data visualizati
 summary: "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: mastodon
   icon_pack: fab

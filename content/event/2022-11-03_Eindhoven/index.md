@@ -51,11 +51,11 @@ projects:
  - OpenMusE
  
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@CultDataObs"
   url: https://twitter.com/CultDataObs

@@ -22,9 +22,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/company/79286750/
-  - icon: twitter
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/DigitalMusicObs/
+    link: https://x.com/DigitalMusicObs/
   - icon: fingerprint
     icon_pack: fas
     link: https://zenodo.org/communities/music_observatory/

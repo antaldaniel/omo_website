@@ -14,7 +14,7 @@ image:
   focal_point: Center
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: Follow
   url: https://twitter.com/EconDataObs

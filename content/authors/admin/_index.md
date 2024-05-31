@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Digital Music Observatory
+title: Open Music Observatory
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,6 @@ organizations:
     url: "https://openmuse.eu/"
   - name: Reprex BV
     url: "https://reprex.nl/"
-  - name: rOpenGov
-    url: http://ropengov.org/
   - name: JUMP European Music Market Accelerator
     url: https://www.jumpmusic.eu/fellow2021/automated-music-observatory/
   - name: Yes!Delft AI+Blockchain Validation Lab
@@ -42,9 +40,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/company/79286750/
-  - icon: twitter
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/DigitalMusicObs/
+    link: https://x.com/DigitalMusicObs/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -60,10 +58,8 @@ email: ''
 highlight_name: true
 ---
 
-The `Digital Music Observatory` is a  prototype of an open, decentralised, reproducible research-supported data observatory that follows the _Feasibility Study for establishing a European Music Observatory_. It is developed in the Open Music Europe Consortium supported by a Horizon Europe Research and Innovation Action grant from the European Commission. As an early prototype, it is not endorsed by any bodies.
+The `Open Music Observatory` is a digital service provider for the music industry that follows the European Interoperability Framework (EIF) definition for such services with a unique governance model. The governance model and the digital service infrastructure represent a unique innovation that considers many good examples from the European Union and other industries.
 
-We build a knowledge platform that consolidates information and data about music, emphasising creating business (institutional) and public policy indicators. The triple transition and cultural policies can be implemented and monitored better if institutions and enterprises follow the same KPIs as policymakers. To increase the value of music copyrights or to decrease CO2 emissions in the music value chain, there must be a transmission mechanism between public policy and institutional or business KPIs. We aim to provide data for [music professionals](/services/music-professionals/), [policymakers](/services/public-policy/), [businesses and institutions](/services/business-institution/), researchers, to keep them on their desired path. We believe that our approach is generally exciting for [data strategists, stewards and curators](/services/data-knowledge/) even beyond the music sector.
+{{< cta cta_text="Join" cta_link="/#contact" cta_new_tab="false" cta_alt_text="History" cta_alt_link="https://music.dataobservatory.eu/documentation/background.html#sec-history" cta_alt_new_tab="false" >}}
 
-<!--{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.  --->{{< icon name="sun" pack="fas" >}}We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
-
-
+Creating the `Open Music Observatory` is a cornerstone task of the [OpenMusE](/authors/openmuse) Horizon Europe research and innovation project. Our prototype is following the  _Feasibility Study for establishing a European Music Observatory_. As an early prototype, it is not recognised by the European Commission or any international organisations.

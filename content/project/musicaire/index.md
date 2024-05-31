@@ -7,7 +7,7 @@ image:
   caption: 
   focal_point: Smart
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: Follow
   url: https://twitter.com/DigitalMusicObs

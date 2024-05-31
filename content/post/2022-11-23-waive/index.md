@@ -23,7 +23,7 @@ featured: false
 links:
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: instagram
   icon_pack: fab

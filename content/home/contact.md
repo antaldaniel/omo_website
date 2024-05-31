@@ -42,7 +42,7 @@ content:
     - ''
   appointment_url: '/#contact'
   contact_links:
-    - icon: twitter
+    - icon: x
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/DigitalMusicObs'

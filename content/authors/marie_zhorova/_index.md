@@ -57,9 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mariezhorova/
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/DigitalMusicObs/
+  link: https://x.com/DigitalMusicObs/
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/mariezhorova

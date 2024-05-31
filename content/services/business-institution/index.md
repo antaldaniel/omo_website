@@ -13,7 +13,7 @@ image:
   focal_point: Center
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@dataandlyrics"
   url: https://twitter.com/dataandlyrics

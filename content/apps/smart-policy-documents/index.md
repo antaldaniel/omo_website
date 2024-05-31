@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: Follow
   url: https://twitter.com/DigitalMusicObs
@@ -24,7 +24,7 @@ links:
   url: https://www.linkedin.com/company/79286750/
 #- icon: telescope
 #  icon_pack: fas
-#  name: Digital Music Observatory
+#  name: Open Music Observatory
 #  url: https://music.dataobservatory.eu/
 ##- icon: database
 #  icon_pack: fas

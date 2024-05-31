@@ -47,9 +47,9 @@ social:
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/team/reprexcommunity
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/DigitalMusicObs
+  link: https://x.com/DigitalMusicObs
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu

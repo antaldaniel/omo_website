@@ -28,7 +28,7 @@ image:
   preview_only:  true
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
@@ -38,7 +38,7 @@ links:
   url: https://iotables.dataobservatory.eu/
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: mastodon
   icon_pack: fab

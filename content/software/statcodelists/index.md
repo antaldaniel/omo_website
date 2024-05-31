@@ -51,7 +51,7 @@ links:
   icon_pack: fas
   name: Documentation
   url: https://statcodelists.dataobservatory.eu/
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: Follow
   url: https://twitter.com/DigitalMusicObs

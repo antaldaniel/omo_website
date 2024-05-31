@@ -13,13 +13,13 @@ summary: "My short presentation highlighted the fact that the CEE region’s is 
 projects: ["CEEMID", "Valuation", "Private copying levy"]
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: mastodon
   icon_pack: fab

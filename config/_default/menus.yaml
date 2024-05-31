@@ -7,28 +7,28 @@ main:
   - name: About
     weight: 10
     identifier: Home
-  - name: News
+  - name: News ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼
     url: ""
     weight: 12
     parent: Home
-  - name: Topics ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼
-    url: ""
-    weight: 13
-    parent: Home
+#  - name: Topics ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼
+#    url: ""
+#    weight: 13
+#    parent: Home
   - name: "Observatory Stakeholder Network"
-    url: "/authors/admin/"
+    url: ../authors/observatory-stakeholder-network/
     weight: 15
     parent: Home
   - name: "Technical Forum"
-    url: '/services/music-professionals/'
+    url: ../authors/technical-forum/
     weight: 16
     parent: Home
   - name: Open Music Europe 🇪🇺 
-    url: https://openmuse.eu/
+    url: ../authors/openmuse/
     weight: 17
     parent: Home
   - name: "Reprex ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼"
-    url: '/services/public-policy/'
+    url: ../authors/reprex/
     weight: 18
     parent: Home
   - name: Join

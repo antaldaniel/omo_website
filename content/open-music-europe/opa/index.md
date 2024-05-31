@@ -34,11 +34,11 @@ url_code: ""
 links:
 - icon: database
   icon_pack: fas
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://music.dataobservatory.eu/
 - icon: database
   icon_pack: fas
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: 
 
 # To use, add an image named `featured.jpg/png` to your project's folder. 

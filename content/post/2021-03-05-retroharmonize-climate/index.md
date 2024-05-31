@@ -21,7 +21,7 @@ lastmod: "2022-08-30T13:14:00+02:00"
 featured: false
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
@@ -31,7 +31,7 @@ links:
   url: https://retroharmonize.dataobservatory.eu/
 - icon: linkedin
   icon_pack: fab
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: mastodon
   icon_pack: fab

@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/GreenDealObs
+  link: https://x.com/GreenDealObs
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu
