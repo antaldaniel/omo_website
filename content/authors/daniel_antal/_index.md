@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist & Founder of the Digital Music Observatory
+role: Data Scientist & Founder of the Open Music Observatory
 
 # Organizations/Affiliations
 organizations:
