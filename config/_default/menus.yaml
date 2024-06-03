@@ -8,7 +8,7 @@ main:
     weight: 10
     identifier: Home
   - name: News ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼
-    url: ""
+    url: ../post/
     weight: 12
     parent: Home
 #  - name: Topics ⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼
@@ -32,7 +32,7 @@ main:
     weight: 18
     parent: Home
   - name: Join
-    url: "#join"
+    url: ../authors/observatory-stakeholder-network/
     weight: 20
     parent: Home
   - name: Data
@@ -50,10 +50,6 @@ main:
   - name: Wikibase
     url: ../data/wikibase/
     weight: 43
-    parent: Data
-  - name: Open Science Repository
-    url: ../data/zenodo/
-    weight: 44
     parent: Data
   - name: 🏛️ Music Economy
     url: '#pillars'
@@ -90,17 +86,25 @@ main:
     url: '/category/r-bloggers/'
     weight: 54
     parent: Services
-  - name: Publications
+  - name: Library
     url: '#featured'
     weight: 70
     identifier: Publications
-  - name: Featured
+  - name: Featured Publications
     url: '#featured'
     weight: 71
     parent: Publications
   - name: All Publications
     url: '#publications'
     weight: 72
+    parent: Publications
+  - name: Documentation
+    url: https://music.dataobservatory.eu/documentation/
+    weight: 74
+    parent: Publications
+  - name: Open Science Repository
+    url: ../data/zenodo/
+    weight: 75
     parent: Publications
   - name: Events
     url: '#contact'

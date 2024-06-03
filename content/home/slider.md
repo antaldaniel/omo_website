@@ -1,7 +1,7 @@
 ---
 widget: slider
 weight: 1
-active: false
+active: true
 headless: true
 
 design:
@@ -15,6 +15,40 @@ design:
 
 content:
   slides:
+    - title: ""
+      content: '</br></br></br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 1
+        media: slides/slider/20240605_dataweek_omo.png
+    - title: ""
+      content: '</br></br></br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: slides/slider/screenshot_slovak_mou_2023.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: 'Cooperation with the Slovak Ministry of Culture and Other Slovak Partners ⇲'
+        url: /post/2023-03-06_music-observatory-in-slovakia/
+    - title: "Categorizing Cultural & Creative Sectors: An Impossible Task?"
+      content: '</br></br></br></br></br></br></br></br></br></br>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.85
+        media: img/blogposts_2023/clem-onojeghuo-QBvtgLdmTbQ-unsplash.jpg
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Blogpost"
+        url: ../post/2023-11-12_impossible-categorization/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you
@@ -32,46 +66,6 @@ content:
         icon_pack: fas
         text: "Blog: Why is it so hard to work with it?"
         url: ../post/2021-06-18-gold-without-rush/
-        url:
-    - title: <span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>
-      content: '</br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 1
-        media: slides/slider/reprex-big-data-for-all-right_aligned_white_slide.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Thank you :)"
-        url: ../post/2022-11-15-reprex-hague-innovators-award
-    - title: Daniel in the EHV Innovation Café
-      content: '</br></br></br></br></br></br></br>'
-      align: left
-      background:
-        position: right
-        color: '#555'
-        brightness: 0.6
-        media: img/slides/daniel_antal_ehv_innovation_cafe_20221103.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Watch the livestream
-        url: ../post/2022-11-03_ehv_innovation_cafe/
-    - title: 
-      content:  </br></br></br></br></br></br></br></br></br></br></br></br>
-      align: left
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.6
-        media: slides/slider/big_data_creates_inequalities_centered.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Read More
-        url: ../post/2022-09-13-the-hague-innovators-award/
     - title: Try Our Software
       content: </br></br></br></br></br></br></br></br>
       align: left
@@ -92,93 +86,12 @@ content:
         position: top
         color: '#555'
         brightness: 0.85
-        media: slides/slider/Sustainable_development_goals_16_white.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "UN SDG 16"
-        url: https://sdgs.un.org/goals/goal16
-    - title: ""
-      content: '</br></br></br></br></br></br></br></br></br></br>'
-      align: left
-      background:
-        position: top
-        color: '#555'
-        brightness: 0.85
         media: slides/slider/Sustainable_development_goals_17_white.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "UN SDG 17"
         url: https://sdgs.un.org/goals/goal17
-    - title: ""
-      content: '</br></br></br></br></br></br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.8
-        media: slides/slider/Listen_Local_Judaica.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Listen Local applications"
-        url: /project/listen-local/
-    - title: ""
-      content: '</br></br></br></br></br></br></br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.5
-        media: slides/slider/full_market_example.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Valuation Use Cases"
-        url: ../usecase/valuation/
-    - title: 
-      content:  </br></br></br></br></br></br></br></br></br></br></br></br>
-      align: left
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.7
-        media: slides/slider/big_data_creates_inequalities_centered.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Read More
-        url: https://reprex.nl/post/2022-09-13-the-hague-innovators-award/
-    - title: Looking for partners
-      content: 'We are looking for partners within the Dutch AI Coalition Culture and Media Working Group and similar organizations to integrate our data observatories into global knowledge graphs and to use them deploy trustworthy AI.
-&#9755; [blogspot](/post/2022-09-22_nlaic_culture_media/) 	
-&#9755; [slides](/slides/reprex-nlaic-2022/)'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: slides/slider/Reprex-NLAIC-2022-background.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Check Out Our Observatories!
-        url: ../#observatories  
-    - title: Learn R With Our Team
-      content: 'Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivize to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical. [&#9755; slides](/slides/learnr-with-reprex)'
-      align: left
-      color: black
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.3
-        media: slides/slider/rmd_example.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Slides
-        url: /slides/learnr-with-reprex/
 ---
 
 <!---
