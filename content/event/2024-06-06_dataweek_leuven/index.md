@@ -14,7 +14,7 @@ address:
   postcode: 3010
   country: Belgium
 
-summary: Greening European Film Policy explores the burgeoning field of environmentally sustainable production in the European film industries.
+summary: Introducing the Open Music Observatory, a new data observatory created with a modern, federated, decentralised data-sharing space that is interoperable with various EU digital services. 
 
 # Talk start and end times.
 date: '2024-06-05T09:30:00+01:00'
@@ -59,7 +59,7 @@ links:
 ---
 <td style="text-align: center;">{{< figure src="slides/slider/20240605_dataweek_omo.png" caption="Are you coming to the Dataweek²⁴? Let's catch up on the social dinner or on the sessions below. Questions? Let's [get in touch](https://reprex.nl/contact/)!" numbered="false" >}}</td>
 
-Daniel Antal will introduce part 2 of Data Week 2024 and LAILEC, the Open Music Observatory, the subjective take of the Open Music Europe consortium on creating a European data observatory with the help of a modern, federated, decentralised data-sharing space that is interoperable with various EU digital services. The short presentation will be in the plenary session (16.00-18.00.)
+Daniel Antal will introduce on the part 2 of Data Week 2024 and LAILEC the Open Music Observatory, the subjective take of the Open Music Europe consortium on creating a European data observatory with the help of a modern, federated, decentralised data-sharing space that is interoperable with various EU digital services. The short presentation will be in the plenary session (16.00-18.00.)
 
 At 14.00, in the [Data-driven automated compliance session](https://data-week.eu/session/data-driven-and-automated-compliance/
 ) (Room Erasmus 3), Daniel will speak about the Sustainability and Innovation pillars of the music observatory in light of the complex compliance issues raised by the CSRD Directive and the difficult-to-access but favourable green financing and insurance opportunities open for the music, film, and another creative sector.
