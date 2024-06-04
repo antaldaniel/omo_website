@@ -15,6 +15,10 @@ main:
 #    url: ""
 #    weight: 13
 #    parent: Home
+  - name: "About"
+    url: ../authors/admin/
+    weight: 11
+    parent: Home
   - name: "Observatory Stakeholder Network"
     url: ../authors/observatory-stakeholder-network/
     weight: 15
