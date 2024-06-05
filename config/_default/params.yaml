@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2020-{year} Daniel Antal, Reprex B.V. This work is licensed under {license}.</br>The development of the Open Music Observatory  has received funding from the European Union’s Horizon Europe, research and innovation programme, under Grant Agreement <a href="https://cordis.europa.eu/project/id/101095295">No 101095295</a>. (See further disclaimer)</a> <img src="../png/EN_fundedbyEU_VERTICAL_RGB_BLACK%20OUTLINE_200px.png" ></img></td></tr></table>'
+    notice: '© 2020-{year} Daniel Antal, Reprex B.V. This work is licensed under {license}.</br>The development of the Open Music Observatory  has received funding from the European Union’s Horizon Europe, research and innovation programme, under Grant Agreement <a href="https://cordis.europa.eu/project/id/101095295">No 101095295</a>. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission’s Citizens, Equality, Rights and Values Programme. Neither the European Union nor the granting authority can be held responsible for them. <a href="https://music.dataobservatory.eu/documentation/#disclaimer-of-warranties"> (See further disclaimer)</a> <img src="../png/EN_fundedbyEU_VERTICAL_RGB_BLACK%20OUTLINE_200px.png" ></img></td></tr></table>'
     license:
       enable: true
       allow_derivatives: false
