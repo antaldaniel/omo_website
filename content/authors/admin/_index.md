@@ -62,4 +62,6 @@ The `Open Music Observatory` is a digital service provider for the music industr
 
 {{< cta cta_text="Join" cta_link="/#contact" cta_new_tab="false" cta_alt_text="History" cta_alt_link="https://music.dataobservatory.eu/documentation/background.html#sec-history" cta_alt_new_tab="false" >}}
 
-Creating the `Open Music Observatory` is a cornerstone task of the [OpenMusE](/authors/openmuse) Horizon Europe research and innovation project. Our prototype is following the  _Feasibility Study for establishing a European Music Observatory_. As an early prototype, it is not recognised by the European Commission or any international organisations.
+Creating the `Open Music Observatory` is a cornerstone task of the [OpenMusE](/authors/openmuse) Horizon Europe research and innovation project. This project has received funding from the European Union’s Horizon Europe, research and innovation programme, under Grant Agreement No. [101095295](https://cordis.europa.eu/project/id/101095295). (See further [disclaimer](https://music.dataobservatory.eu/documentation/#disclaimer-of-warranties)) This document has been prepared by Open Music Europe (OpenMusE) project partners as an account of work carried out within the framework of this contract. Our prototype is following the  _Feasibility Study for establishing a European Music Observatory_. As an early prototype, it is not recognised by the European Commission or any international organisations.
+
+![](/png/EN_fundedbyEU_VERTICAL_RGB_BLACK%20OUTLINE_200px.png)
