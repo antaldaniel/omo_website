@@ -23,6 +23,11 @@ content:
         color: '#555'
         brightness: 1
         media: slides/slider/20240605_dataweek_omo.png
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Slides"
+        url: ../slides/20240605_d_antal_dataweek_omo/
     - title: ""
       content: '</br></br></br>'
       align: left

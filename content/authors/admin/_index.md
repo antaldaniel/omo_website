@@ -60,7 +60,7 @@ highlight_name: true
 
 The `Open Music Observatory` is a digital service provider for the music industry that follows the European Interoperability Framework (EIF) definition for such services with a unique governance model. The governance model and the digital service infrastructure represent a unique innovation that considers many good examples from the European Union and other industries.
 
-{{< cta cta_text="Join" cta_link="/#contact" cta_new_tab="false" cta_alt_text="History" cta_alt_link="https://music.dataobservatory.eu/documentation/background.html#sec-history" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Open Music Observatory Slides" cta_link="/slides/20240605_d_antal_dataweek_omo/" cta_alt_text="History" cta_alt_link="https://music.dataobservatory.eu/documentation/background.html#sec-history" cta_alt_new_tab="false" >}}
 
 Creating the `Open Music Observatory` is a cornerstone task of the [OpenMusE](/authors/openmuse) Horizon Europe research and innovation project. This project has received funding from the European Union’s Horizon Europe, research and innovation programme, under Grant Agreement No. [101095295](https://cordis.europa.eu/project/id/101095295). (See further [disclaimer](https://music.dataobservatory.eu/documentation/#disclaimer-of-warranties)) This document has been prepared by Open Music Europe (OpenMusE) project partners as an account of work carried out within the framework of this contract. Our prototype is following the  _Feasibility Study for establishing a European Music Observatory_. As an early prototype, it is not recognised by the European Commission or any international organisations.
 
