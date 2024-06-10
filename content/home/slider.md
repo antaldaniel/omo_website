@@ -19,7 +19,7 @@ content:
       content: '</br></br></br>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
         brightness: 1
         media: slides/slider/20240605_dataweek_omo.png
@@ -42,7 +42,7 @@ content:
         text: 'Cooperation with the Slovak Ministry of Culture and Other Slovak Partners ⇲'
         url: /post/2023-03-06_music-observatory-in-slovakia/
     - title: "Categorizing Cultural & Creative Sectors: An Impossible Task?"
-      content: '</br></br></br></br></br></br></br></br></br></br>'
+      content: '</br></br></br></br></br></br></br>'
       align: left
       background:
         position: top
@@ -53,7 +53,7 @@ content:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "Blogpost"
-        url: ../post/2023-11-12_impossible-categorization/
+        url: /post/2023-11-12_impossible-categorization/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you

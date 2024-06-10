@@ -6,14 +6,14 @@ authors: [daniel_antal]
 tags: ["Open Music Observatory", "SKCMDb", "Slovakia","Music diversity", "Listen Local", "magyarul"]
 categories: []
 date: '2024-04-05T12:30:00+01:00'
-lastmod: 2024-06-09T16:00:00+01:00
+lastmod: 2024-06-10T07:00:00+01:00
 slides:
   theme: white
   highlight_style: dracula
 
 ---
 
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_1.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_01.png" background-position="top">}}
 
 ---
 
@@ -31,29 +31,29 @@ press Ⓕ
 
 ---
 
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_2.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_02.png" background-position="top">}}
 
 ---
 
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_3.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_03.png" background-position="top">}}
 
 ---
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_4.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_04.png" background-position="top">}}
 
 ---
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_5.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_05.png" background-position="top">}}
 
 ---
 {{< slide background-image="D_Antal_Dataspace_Eger_20240405_6.png" background-position="top">}}
 
 ---
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_7.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_07.png" background-position="top">}}
 
 ---
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_8.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_08.png" background-position="top">}}
 
 ---
-{{< slide background-image="D_Antal_Dataspace_Eger_20240405_9.png" background-position="top">}}
+{{< slide background-image="D_Antal_Dataspace_Eger_20240405_09.png" background-position="top">}}
 
 ---
 {{< slide background-image="D_Antal_Dataspace_Eger_20240405_10.png" background-position="top">}}

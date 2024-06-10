@@ -1,6 +1,6 @@
 ---
-title: "Dataweek²⁴"
-subtitle: "Open Music Observatory: Towards a European Music Dataspace"
+title: "Dataweek²⁴: Introducing a new European music dataspace"
+subtitle: "Open Music Observatory"
 
 categories:
 
@@ -55,7 +55,7 @@ links:
   url: https://www.linkedin.com/company/79286750/
 
 # Markdown Slides (optional).
-
+slides: 20240605_D_Antal_Dataweek_OMO
 ---
 <td style="text-align: center;">{{< figure src="slides/slider/20240605_dataweek_omo.png" caption="Are you coming to the Dataweek²⁴? Let's catch up on the social dinner or on the sessions below. Questions? Let's [get in touch](https://reprex.nl/contact/)!" numbered="false" >}}</td>
 
