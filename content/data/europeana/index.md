@@ -3,6 +3,8 @@ title: Europeana
 summary: "The portal is a central point of access to European open data from international, European Union, national, regional, local and geodata portals."
 tags:
 - "data access"
+- "Europeana"
+- "collections"
 date: "2024-05-28T18:18:00+01:00"
 lastmod: "2024-06-10T10:31:00+01:00"
 
@@ -10,7 +12,7 @@ lastmod: "2024-06-10T10:31:00+01:00"
 external_link: ""
 
 authors:
-- daniel_antal
+- admin
 
 image:
   caption: 
@@ -28,8 +30,6 @@ url_slides: ""
 url_video: ""
 
 # Slides (optional).
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 ---
 <td style="text-align: center;">{{< figure src="2x1/data/europeana_2024_2x1.png" caption="[europeana.eu](https://data.europa.eu/data/catalogues/open-music-observatory/) is the central access point to our unrestricted digital music." numbered="false" >}}</td>
