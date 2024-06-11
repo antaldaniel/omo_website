@@ -1,12 +1,15 @@
 ---
-title: "From Slovakia Towards a European Music Dataspace"
+title: "ELTE DH Meetup: From Slovakia Towards a European Music Dataspace"
 subtitle: "This presentation is in Hungarian"
 
 # Summary for listings and search engines
-summary: "A discussion on the exploitation and replication possibilities of the Slovak Music Dataspace."
+summary: "A discussion on the exploitation and replication possibilities of the Slovak Music Dataspace for Hungarian digital heritage and music experts."
 
 authors: ["daniel_antal"]
- 
+
+event: "ELTE DH Meetup" 
+event_url: https://music.dataobservatory.eu//talk/elte-dh-meetup-from-slovakia-towards-a-european-music-dataspace/
+
 # Link this post with a project
 projects: ''
 

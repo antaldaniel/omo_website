@@ -10,6 +10,14 @@ authors: ["daniel_antal"]
 # Link this post with a project
 projects: ''
 
+event: "Networkshop'24" 
+event_url: https://nws.comp-rend.hu/
+location: Eszterházy Károly Katolikus Egyetem
+address:
+  city: Eger
+  street: Eszterházy tér 1
+  postcode: 3300
+  country: Hungary
 # Date published
 date: "2024-04-04T18:00:00+01:00"
 lastmod: "2024-06-10T14:30:00+01:00"
@@ -20,12 +28,7 @@ date_end:  "2024-04-05T13:00:00+01:00"
 all_day: false
 
 
-location: Eszterházy Károly Katolikus Egyetem
-address:
-  city: Eger
-  street: Eszterházy tér 1
-  postcode: 3300
-  country: Hungary
+
 
 # Is this an unpublished draft?
 draft: false
