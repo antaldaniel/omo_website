@@ -33,7 +33,7 @@ address:
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 links:
 - icon: linkedin
@@ -46,7 +46,7 @@ links:
   url: https://reprex.nl/documents/hu/Antal_D_Dataspace_Eger_20240405.pdf
 
 tags:
-  - Networkshop
+  - Open Music Observatory
   - Hungary
   - magyarul
   - datapsace
