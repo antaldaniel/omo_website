@@ -1,67 +1,68 @@
 ---
-title: "ELTE DH Meetup: From Slovakia Towards a European Music Dataspace"
-subtitle: "This presentation is in Hungarian"
+title: "Federating the Slovak Music Dataspace: Replication in Hungary"
+subtitle: ELTE Digital Heritage Meetup
+projects: []
+categories:
 
-# Summary for listings and search engines
-summary: "A discussion on the exploitation and replication possibilities of the Slovak Music Dataspace for Hungarian digital heritage and music experts."
-
-authors: ["daniel_antal"]
-
-event: "ELTE DH Meetup" 
+event: ELTE DH Meetup
 event_url: https://music.dataobservatory.eu//talk/elte-dh-meetup-from-slovakia-towards-a-european-music-dataspace/
 
-# Link this post with a project
-projects: ''
-
-# Date published
-date: "2024-06-10T14:32:00+01:00"
-lastmod: "2024-06-10T14:32:00+01:00"
-
-# Talk start and end times.
-date: '2024-06-14T14:00:00+01:00'
-date_end: '2024-06-14T15:30:00+01:00'
-all_day: false
-
-location: ELTE Digitális Bölcsészet Tanszék
+location: "ELTE Digitális Bölcsészet Tanszék"
 address:
   city: Budapest
   street: Múzeum krt. 6-8. II. emelet. 206.
   postcode: 1088
   country: Hungary
 
-# Is this an unpublished draft?
-draft: false
+summary: A discussion on the exploitation and replication possibilities of the Slovak Music Dataspace for Hungarian digital heritage and music experts.
 
-# Show this page in the Featured widget?
+abstract: 'This informal meetup is going to be held in the Hungarian language at the ELTE Digital Heritage Department.'
+
+# Talk start and end times.
+date: '2024-06-14T14:00:00+01:00'
+#date_end: '2024-06-14T15:30:00+01:00'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-06-08T14:32:00'
+
+authors: ["daniel_antal"]
+tags: ["Hungary", "Open Music Observatory", "Dataspace"]
+
+# Is this a featured talk? (true/false)
 featured: true
 
-links:
-- icon: linkedin
-  icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
-- icon: arrow-down-on-square
-  icon_pack: hero
-  name: Download presentation
-  url: https://reprex.nl/documents/hu/Antal_D_Dataspace_Eger_20240405.pdf
-
-tags:
-  - Open Music Observatory
-  - Hungary
-  - magyarul
-  - datapsace
-  
-# Featured image
 image:
-  caption: 
-  focal_point: "smart"
+  caption: ''
+  focal_point: Center
   preview_only: true
 
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+links:
+- icon: x
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: linkedin
+  icon_pack: fab
+  name: Open Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: ""
+  icon_pack: fas
+  name: elte.dh Website
+  url: https://elte-dh.hu/en/home-2/
+
+
+# Markdown Slides (optional).
 slides: 20240405_networkshop
 ---
 <td style="text-align: center;">{{< figure src="slides/dataspace/slide_sk_data_enrich_and_dissmeninate.png" caption="" numbered="false" >}}</td>
 
-_This presentation will be made in the Hungarian language. A similar presentation in English is available [here](/talk/dataweek/)_
+_This presentation will be made in the Hungarian language. A similar presentation in English is available [here](/talk/dataweek/)._
 
 Vajon miért nem ajánl a Spotify híres ajánlórendszere Szlovákiában szlovák embereknek elég szlovák zenét?  És miért akadoznak az egyébként is nem kielégítő számú meghallgatások után a kifizetések?  Ezek voltak azok a kérdések, amelyekre a Szlovák Művészeti Tanács kis összegű ösztöndíjával, a state51 támogatásával a Reprex és a SOZA válaszokat kezdett keresni 2020-ban. Azok az adatproblémák, amelyek a nem kielégítő eredményekre vezetnek, nem csak Szlovákiában, hanem lényegében minden kisebb nyelvterületen jelen vannak.
 
