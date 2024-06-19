@@ -1,7 +1,10 @@
 library(here)
-
-slide_selector = "D_Antal_Dataspace_Eger_20240405"
-slides_dir  <- here("png", "networkshop", "D_Antal_Dataspace_Eger_20240405_PNG")
+here()
+slide_selector = "Slide"
+slides_dir  <- here("content", "slides", "20240613_eltedh")
+slide_names <- "20240613_eltedh_reprex_"
+dir(slides_dir)
+dir()
 rename_slides <- function(slides_dir, 
                           export_dir = NULL, 
                           slide_selector = "Slides", 
